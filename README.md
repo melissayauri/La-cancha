@@ -9,4 +9,4 @@ El presente trabajo consta en aplicar los conocimientos sobre "positioning". De 
  -Css
 
 4. Imagen  
-![recursos](assets/cancha.jpg)
+![recursos](assets/docs/cancha.JPG)
